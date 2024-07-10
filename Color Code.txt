@@ -1,0 +1,5 @@
+Background Color : 77 0 24
+
+Warna Terang : 237 0 75
+
+Warna Gelap  : 107 0 29
